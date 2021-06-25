@@ -1,2 +1,2 @@
-# Edit_Shoreline_Points_MATLAB
+# Load_Image_MATLAB
 Test to see if Binder works with MATLAB
